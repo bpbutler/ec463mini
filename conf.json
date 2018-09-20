@@ -1,0 +1,1 @@
+{"min_area": 30000, "camera_warmup_time": 2.5, "delta_thresh": 5, "min_motion_frames": 4, "resolution": [640, 480], "min_upload_seconds": 0.25, "fps": 16}
